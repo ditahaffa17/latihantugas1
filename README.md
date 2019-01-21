@@ -3,7 +3,7 @@
 <p>2.Masukkan data diri sesuai form  yang tersedia</p>
 <p>3.Setelah meng-klik tombol Create Account, masuk ke jendela pilihan personal plan, silahkan pilih "unlimited public repositories for free" untuk akun yang tidak berbayar. Dan apabila ingin yang akun yang private, silahkan pilih yang berbayar.  Kemudian klik Finish sign up</p>
 <p>4.Akun GitHub telah selesai dibuat, kita harus melakukan verifikasi akun melalui link yang akan dikirimkan pihak Github melalui email yang telah daftarkan sebelumnya. Setelah konfirmasi, kita sudah dapat membuat Repository.</p>
-<p><b>Cara Menggunakan Git</p></b>
+<p><b>>Cara Menggunakan Git</p></b>
 <p>1.Buat Repositori Baru</p>
 <p>2.Buat Repositri di Komputer</p>
 </p><b>Contoh:"mkdir halaman-github</b></p>
