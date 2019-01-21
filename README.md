@@ -6,6 +6,12 @@
 <p><b>Cara Menggunakan Git</p></b>
 <p>1.Buat Repositori Baru</p>
 <p>2.Buat Repositri di Komputer</p>
+</p><b>Contoh:"mkdir halaman-github</b></p>
+            <p>cd halaman-github</p>
+            <p>echo "Hello World! Welcome to my website" >> index.html</p>
+            <p>git init</p>
+            <p>git add index.html</p>
+            <p>git commit -m "first commit"</p>
 <p>3.Tambahkan URL Remote Repository</p>
      <b>Contoh:"git remote add origin https://github.com/petanikode/petanikode.github.io.git"</b>
 <p>4.Kirim ke Github</p>
